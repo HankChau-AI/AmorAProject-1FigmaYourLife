@@ -1,0 +1,120 @@
+body{
+    background-color: #3F5074;
+}
+
+h1 {
+    font-size: 60px;
+    line-height: 200px;
+    margin-top: -270px;
+    margin-left: 130px;
+    position: absolute;
+    top: 40%;
+    width: 30%;
+    height: 10px;
+    color: white;
+}
+
+h2{
+    word-wrap: normal;
+    font-size: 16px;
+    margin-left: 700px;
+    position: absolute;
+    text-align: center;
+    top: 73%;
+    width: 30%;
+    color: white;
+}
+
+h3{
+    word-wrap: normal;
+    font-size: 16px;
+    margin-top: -300px;
+    position: absolute;
+    text-align: center;
+    top: 70%;
+    width: 30%;
+    color: white;
+}
+
+
+#navbarcolor{
+    color: white;
+}
+
+#navbarbgcolor{
+  background-color:#3C3636;
+}
+
+
+
+.grid {
+    display: grid;
+    position: absolute;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+grid-template-rows: repeat(2, 1fr);    /* 2 rows */
+    width: 50%;
+    height: 60%;
+    grid-gap: 10px;
+    margin-top: 40px;
+    margin-left: 550px;
+
+  }
+
+  .grid-item1 {
+    background-image: url(/assets/childish-gambino-camp-official-tracklist.jpg);
+    background-size: cover;
+    background-position: center;
+
+  }
+
+  .grid-item2 {
+    background-image: url(/assets/IMG_4166.jpg);
+    background-size: cover;
+    background-position: center;
+    
+  }
+  
+  .grid-item3 {
+    background-image: url(/assets/kanyegraduation.jpg);
+    background-size: cover;
+    background-position: center;
+ 
+  }
+  
+  .grid-item4 {
+    background-image: url(/assets/gta5.png);
+    background-size: cover;
+    background-position: center;
+   
+  }
+  
+  .grid-item5 {
+    background-image: url(/assets/travisalbumcover.jpg);
+    background-size: cover;
+    background-position: center;
+  
+  }
+  
+  .grid-item6 {
+    background-image: url(/assets/IMG_0127.jpg);
+    background-size: cover;
+    background-position: center;
+    
+  }
+  
+  .grid-item7 {
+    background-image: url(/assets/Image\ from\ iOS\ \(4\).jpg);
+    background-size: cover;
+    background-position: center;
+ 
+  }
+  
+  .grid-item8 {
+    background-image: url(/assets/Image\ from\ iOS\ \(8\).jpg);
+    background-size: cover;
+    background-position: center;
+ 
+  }
+  
+
+  

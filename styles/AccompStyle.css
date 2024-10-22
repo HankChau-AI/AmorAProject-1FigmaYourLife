@@ -1,0 +1,119 @@
+body{
+    background-color: #3F5074;
+}
+
+h1 {
+    font-size: 55px;
+    line-height: 200px;
+    margin-top: -290px;
+    margin-left: 110px;
+    position: absolute;
+    top: 40%;
+    width: 30%;
+    height: 10px;
+    color: white;
+}
+
+h2{
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 30%;
+    color: white;
+}
+
+h3{
+    word-wrap: normal;
+    font-size: 16px;
+    margin-top: -350px;
+    margin-left: 85px;
+    position: absolute;
+    text-align: center;
+    top: 70%;
+    width: 30%;
+    color: white;
+}
+
+
+#navbarcolor{
+    color: white;
+}
+
+#navbarbgcolor{
+    background-color:#3C3636;
+}
+
+
+.grid {
+    display: grid;
+    position: absolute;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    width: 35%;
+    height: 90%;
+    grid-gap: 10px;
+    margin-top: 30px;
+    margin-left: 700px;
+
+  }
+
+  .grid-item1 {
+    background-image: url(/assets/Image\ from\ iOS\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+
+  }
+
+  .grid-item2 {
+    background-image: url(/assets/IMG_0219.jpg);
+    background-size: cover;
+    background-position: center;
+    
+  }
+  
+  .grid-item3 {
+    background-image: url(/assets/Image\ from\ iOS\ \(3\).jpg);
+    background-size: cover;
+    background-position: center;
+ 
+  }
+  
+  .grid-item4 {
+    background-image: url(/assets/Mission-Peak-9-768x1024.jpg);
+    background-size: cover;
+    background-position: center;
+   
+  }
+  
+  .grid-item5 {
+    background-image: url(/assets/Image\ from\ iOS\ \(7\).jpg);
+    background-size: cover;
+    background-position: center;
+  
+  }
+  
+  .grid-item6 {
+    background-image: url(/assets/Image\ from\ iOS\ \(6\).jpg);
+    background-size: cover;
+    background-position: center;
+    
+  }
+  
+  .grid-item7 {
+    background-image: url(/assets/Image\ from\ iOS\ \(4\).jpg);
+    background-size: cover;
+    background-position: center;
+ 
+  }
+  
+  .grid-item8 {
+    background-image: url(/assets/Image\ from\ iOS\ \(8\).jpg);
+    background-size: cover;
+    background-position: center;
+ 
+  }
+  
+
+  
